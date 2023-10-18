@@ -43,7 +43,7 @@ pip install Flask scikit-learn flask-cors
    ```bash
    python search_api.py
    ```
-   The API will be available at `http://localhost:5001`.
+   The API will be available at `http://localhost:5000`.
 
 ## **Usage**
 
